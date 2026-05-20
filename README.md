@@ -71,7 +71,7 @@ To keep the project organized, the repository follows this structure:
     ├── data/
     │   └── london_bikes.csv       # Processed dataset ready for modeling
     ├── notebooks/
-    │   └── lonbikes_20250605.ipynb # Main Jupyter Notebook with EDA, Feature Engineering, and Modeling
+    │   └── lonbikes_20250605.ipynb # Main Jupyter Notebook with EDA, Feature Engineering, and Modeling in Polish
     ├── docs/
     │   └── thesis_PL.pdf    # PDF version of the original thesis in Polish
     ├── README.md                  # Project overview
@@ -97,6 +97,10 @@ To keep the project organized, the repository follows this structure:
 4. Launch Jupyter Notebook and open the main analysis file:
 
     jupyter notebook notebooks/lonbikes_20250605.ipynb
+
+## ℹ️ Info
+
+Currently notebook and thesis pdf are in Polish, someday I will add translations to English
    
 
 ## 📄 License
