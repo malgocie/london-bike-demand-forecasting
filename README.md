@@ -73,7 +73,7 @@ To keep the project organized, the repository follows this structure:
     ├── notebooks/
     │   └── lonbikes_20250605.ipynb # Main Jupyter Notebook with EDA, Feature Engineering, and Modeling
     ├── docs/
-    │   └── thesis_document.pdf    # (Optional) PDF version of the thesis
+    │   └── thesis_PL.pdf    # PDF version of the original thesis in Polish
     ├── README.md                  # Project overview
 
 
